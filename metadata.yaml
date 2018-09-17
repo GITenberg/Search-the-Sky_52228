@@ -1,0 +1,43 @@
+_repo: Search-the-Sky_52228
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Kornbluth, C. M. (Cyril M.)
+    aliases:
+    - Kornbluth, Cyril M.
+    - Eisner, Simon
+    birthdate: 1923
+    deathdate: 1958
+    gutenberg_agent_id: '34039'
+    url: http://www.gutenberg.org/2009/agents/34039
+    wikipedia: http://en.wikipedia.org/wiki/Cyril_M._Kornbluth
+  - agent_name: Pohl, Frederik
+    aliases:
+    - Pohl, Frederik George, Jr.
+    - Pohl, Frederick
+    birthdate: 1919
+    deathdate: 2013
+    gutenberg_agent_id: '25413'
+    url: http://www.gutenberg.org/2009/agents/25413
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Frederik_Pohl
+    - http://www.gutenberg.org/ebooks/author/46565
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52228'
+  lccn: '54006478'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Interstellar travel -- Fiction'
+- !lcsh 'Space colonies -- Fiction'
+- GITenberg
+title: Search the Sky
+url: http://www.gutenberg.org/ebooks/52228
